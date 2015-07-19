@@ -1,1 +1,8 @@
-Welcome to Mohammed Hamzeh
+[general]
+
+version    = "v1.0.2"
+
+messagenew = "Moded By Mohammed Hamzeh"
+
+[old]
+oldv = "version #v1.0.1#"
