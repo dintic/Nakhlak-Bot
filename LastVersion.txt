@@ -1,9 +1,10 @@
 [general]
 
-version    = "v4.0.1"
+version    = "v1.0.1"
 
-messagenew = "The wait is over, version 4.0.1 has landed!\n\nThis version:\n\n- contains many bug fixes and optimizations (check the forums for the complete list)\n\n- Don't be a stranger, stop by our community forums and join in on the revolution\n\nhttps://gamebot.org"
-messageold = "Your version is out of date, please download the latest version at:\nhttps://gamebot.org"
+messagenew = "Moded By Nakhlak"
+
+messageold = "Version Shoma Qadimi Shode Ast"
 
 [old]
-oldv = "version #v4.0.1#"
+oldv = "version #v1.0.1#"
